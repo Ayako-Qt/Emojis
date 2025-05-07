@@ -5,4 +5,4 @@ A very simple, light-weighted thing that add emoji picker to your bc.
 If you like to use emoji, this little "mod" will make it a bit faster, save you from copy one somewhere else and paste.
 
 ## TamperMonkey install:
-https://ayako-qt.github.io/Emojis/emojiTMLoader.js
+https://ayako-qt.github.io/Emojis/emojiTMLoader.user.js
