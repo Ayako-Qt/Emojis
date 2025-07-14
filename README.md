@@ -12,6 +12,8 @@ send me any emoji you want to add, i'll add them so that all users can use them 
 
 After installing, you should see a little icon with a 😊 floarting above your chatting input area, to the right.
 
+## or enable it in FUSAM
+
 ## issues:
 if you saw some emoji can show up correctly, probably because of lacking of certain char-set in your device, different people will see different glitches
 please use the one that you can see it displaying correctly! 
